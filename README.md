@@ -12,7 +12,7 @@
   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 </p>
 <p align="center">
-  <img src="./dashboard.png" alt="ProdAI Dashboard" width="100%">
+  <img src="./dashboard.webp" alt="ProdAI Dashboard" width="100%">
 </p>
 ---
 
